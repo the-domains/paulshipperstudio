@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[paulshipperstudio]]></title>
+        <description><![CDATA[paulshipperstudio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 22:56:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Check out the new website!]]></title>
+            <description><![CDATA[<article><h1>Check out the new website!</h1><p>Thanks for all your support guys and gals! You Rock! Check out the new and improved website http://paulshipperstudio.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0434469a9c020b2dc6e70c6c665613de49ebb432.jpg"></article>]]></description>
+            <link>undefinedcheck-out-the-new-website/index.html</link>
+            <guid isPermaLink="false">b42ac5b6-8b1d-4541-8747-2be6f1f55894</guid>
+            <pubDate>Tue, 05 Apr 2016 22:55:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
