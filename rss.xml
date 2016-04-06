@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[paulshipperstudio]]></title>
         <description><![CDATA[paulshipperstudio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paulshipperstudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 22:56:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 10:34:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paulshipperstudio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucha Underground ]]></title>
+            <description><![CDATA[<article><h1>Lucha Underground </h1><p>It's always nice having created a piece of artwork that is going to be used at a big event. This time it is SXSW. The HUGE show held in Austin, Texas is kind of a big deal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56f7cab4e20b7fc344cdd4038a50ac86306122ef.jpg"></article>]]></description>
+            <link>https://thegrid.ai/paulshipperstudio/lucha-underground/index.html</link>
+            <guid isPermaLink="false">999bb437-2eed-4772-bea9-db19ae1b1966</guid>
+            <pubDate>Wed, 06 Apr 2016 10:34:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Check out the new website!]]></title>
             <description><![CDATA[<article><h1>Check out the new website!</h1><p>Thanks for all your support guys and gals! You Rock! Check out the new and improved website http://paulshipperstudio.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0434469a9c020b2dc6e70c6c665613de49ebb432.jpg"></article>]]></description>
-            <link>undefinedcheck-out-the-new-website/index.html</link>
+            <link>https://thegrid.ai/paulshipperstudio/check-out-the-new-website/index.html</link>
             <guid isPermaLink="false">b42ac5b6-8b1d-4541-8747-2be6f1f55894</guid>
             <pubDate>Tue, 05 Apr 2016 22:55:42 GMT</pubDate>
         </item>
