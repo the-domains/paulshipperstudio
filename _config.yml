@@ -1,4 +1,5 @@
-layout_spectrum: 1
+favicon: null
+name: paulshipperstudio
 opengraph:
   image: null
   type: null
@@ -18,7 +19,7 @@ collections:
 purpose: []
 color:
   saturation: 0
-  brandStrength: 0.4946294
+  brandStrength: 0
   lightness: 0.4871106
   brandColors:
     - '#010101'
@@ -28,13 +29,12 @@ color:
     - '#CE3003'
   rhythmicContrast: 0
 typography_spectrum: 0.5816327
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: paulshipperstudio
+cta:
+  bucket: null
+  version: null
+  domain: null
