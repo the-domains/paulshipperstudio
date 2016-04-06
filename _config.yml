@@ -1,5 +1,4 @@
-favicon: null
-name: paulshipperstudio
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
@@ -28,13 +27,14 @@ color:
     - '#DFAB39'
     - '#CE3003'
   rhythmicContrast: 0
-typography_spectrum: 0.433405
+typography_spectrum: 0.5816327
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: paulshipperstudio
