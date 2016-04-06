@@ -1,8 +1,8 @@
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -13,28 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.6933405
   brandStrength: 0.4946294
-  lightness: 0.556928
+  rhythmicContrast: 0.537594
   brandColors:
     - '#010101'
     - '#FCFCFB'
     - '#20B3CD'
     - '#DFAB39'
     - '#CE3003'
-  rhythmicContrast: 0.537594
-typography_spectrum: 0.4044038
+  lightness: 0.556928
+typography_spectrum: 0.1272825
 layout_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: paulshipperstudio
