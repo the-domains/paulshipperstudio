@@ -21,20 +21,20 @@ color:
   brandStrength: 1
   lightness: 1
   brandColors:
-    - '#010002'
-    - '#FFFFFF'
-    - '#E00101'
-    - '#FFE002'
-    - '#9B9A9B'
+    - '#010101'
+    - '#393939'
+    - '#5C5C5C'
+    - '#FCFCFC'
+    - '#A2A2A2'
   rhythmicContrast: 1
 typography_spectrum: 0.3174006
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 0.7040817
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
