@@ -18,23 +18,23 @@ collections:
 purpose: []
 color:
   saturation: 1
-  brandStrength: 0.480666
+  brandStrength: 0.7556391
   lightness: 1
   brandColors:
-    - '#1F140F'
-    - '#A23A17'
-    - '#FFFFFF'
-    - '#6E6561'
-    - '#A36C5D'
+    - '#1F190D'
+    - '#FBA301'
+    - '#FBF9F2'
+    - '#FF9A5C'
+    - '#895B88'
   rhythmicContrast: 1
 typography_spectrum: 0.5816327
 layout_spectrum: 0.5827067
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
